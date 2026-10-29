@@ -1,0 +1,51 @@
+.clasa1
+{
+	
+	font-family:georgia;
+	font-size:70px;
+	font-weight:bold;
+	color:black;
+	text-align: center;
+	text-shadow: 4px 4px 6px white;
+}
+.clasa2
+{
+	font-family:georgia;
+	color:#C6E8C4;
+	font-size:30px;
+	font-weight:bold;
+	text-indent:90px;
+	padding-left:90px;
+	padding-right:90px;
+	text-shadow: 4px 4px 6px black;
+}
+.clasa3
+{
+	font-family:georgia;
+	font-size:35px;
+	font-weight:bold;
+	text-indent:90px;
+	padding-left:90px;
+	padding-right:90px;
+	text-decoration:underline;
+	text-shadow: 4px 4px 6px white;
+}
+.clasa4
+{
+	
+	font-family:georgia;
+	font-size:70px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	text-shadow: 4px 4px 6px black;
+	text-decoration:underline;
+	color:#C6E8C4;
+}
+
+
+.video-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }

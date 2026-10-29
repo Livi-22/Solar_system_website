@@ -1,0 +1,98 @@
+<style>
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+body
+{
+	padding-left:1500px;
+}
+.clasa1
+{
+	
+	font-family:georgia;
+	font-size:80px;
+	font-weight:bold;
+	color:#F12272;
+}
+.clasa2
+{
+	font-family:georgia;
+	font-size:30px;
+	text-indent:50px;
+}
+
+
+.clasa3
+{
+	padding-left:370px;
+	font-family:georgia;
+	font-size:50px;
+	text-decoration:underline;
+}
+.clasa4
+{
+	padding-left:340px;
+	padding-right:70px;
+	font-family:georgia;
+	font-size:30px;
+	text-indent:100px;
+}
+.element1
+{
+  	position:absolute;
+  	top:870px;
+  	left:393px;
+  	height:600px;
+  	width:610px;
+  	color:white;
+  	background-color:black;
+}
+.element2
+{
+  	position:absolute;
+  	top:0px;
+  	left:610px;
+  	height:600px;
+  	width:770px;
+  	color:white;
+  	background-color:black;
+	font-size:30px;
+	padding-left:50px;
+	padding-right:50px;
+}
+.clasa5
+{
+	font-family:georgia;
+	font-size:50px;
+	text-decoration:underline;
+	color:black;
+}
+
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  text-align:center;
+}
+th, td {
+  background-color: pink;
+  font-size:25px;
+  font-size:25px;
+  border-width:3px;
+}
+td{
+	height:50px;
+}
+
+
+ol {
+  background: #F12272;
+}
+ol li {
+  background: #ffe5e5;
+  color: black;
+  padding: 10px;
+  margin-left: 50px;
+  font-size:30px;
+  
+}

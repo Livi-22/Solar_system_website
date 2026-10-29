@@ -1,0 +1,29 @@
+#page {
+    background-image: url('https://wallpapers-hub.art/wallpaper-images/424655.jpg');
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body
+{
+	background-color:black;
+}
+.clasa1
+{
+	
+	font-family:georgia;
+	font-size:80px;
+	color:#FCFFCE;
+	text-align:center;
+	
+}
+.clasa2
+{
+	font-family:georgia;
+	font-size:33px;
+	text-indent:50px;
+	font-style:italic;
+	color:#FCFFCE;
+	padding-left:100px;
+	padding-right:100px;
+}

@@ -1,0 +1,129 @@
+.clasa4
+{
+	
+	font-family:georgia;
+	font-size:70px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	text-shadow: 4px 4px 6px black;
+	text-decoration:underline;
+}
+.element1
+{
+  	position:absolute;
+  	top:250px;
+  	left:60px;
+  	height:50px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element2
+{
+  	position:absolute;
+  	top:360px;
+  	left:60px;
+  	height:50px;
+  	width:500px;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	color:white;
+  	background-color:black;
+}
+.element3
+{
+  	position:absolute;
+  	top:470px;
+  	left:60px;
+  	height:70px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element4
+{
+  	position:absolute;
+  	top:635px;
+  	left:60px;
+  	height:80px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element5
+{
+  	position:absolute;
+  	top:250px;
+  	left:700px;
+  	height:70px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element6
+{
+  	position:absolute;
+  	top:530px;
+  	left:700px;
+  	height:70px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element7
+{
+  	position:absolute;
+  	top:250px;
+  	left:1300px;
+  	height:70px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+.element8
+{
+  	position:absolute;
+  	top:530px;
+  	left:1300px;
+  	height:70px;
+  	width:500px;
+  	color:white;
+	font-family:georgia;
+	font-size:27px;
+	font-weight:bold;
+  	background-color:black;
+}
+
+
+
+ul {
+  background: #262829;
+}
+ul li {
+  background: #CDCDCD;
+  color: black;
+  padding: 0px;
+  margin-left: 30px;
+  font-size:30px;
+  
+}
